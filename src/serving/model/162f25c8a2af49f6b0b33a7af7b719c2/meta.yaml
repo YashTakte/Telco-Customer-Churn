@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/GitHub/Telco%20Customer%20Churn/mlruns/589629950599899862/162f25c8a2af49f6b0b33a7af7b719c2/artifacts
+end_time: 1767118422698
+entry_point_name: ''
+experiment_id: '589629950599899862'
+lifecycle_stage: active
+run_id: 162f25c8a2af49f6b0b33a7af7b719c2
+run_name: unruly-fowl-878
+run_uuid: 162f25c8a2af49f6b0b33a7af7b719c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767118410285
+status: 3
+tags: []
+user_id: yasht
